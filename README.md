@@ -25,6 +25,8 @@
 </a>
 </div>
 
-### Here is a random meme to make your day :)
+---
+
+<strong>Here is a random meme to make your day :)</strong>
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Enjoy it" alt="Refresh the page if the image doesn't show up." height="500"></a>
