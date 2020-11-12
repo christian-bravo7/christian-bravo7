@@ -15,13 +15,13 @@
 
 <div align="center">
 <a target="_blank" href="https://www.instagram.com/christian.bravo_/">
-    <img width="18" height="18" src="https://raw.githubusercontent.com/christian-bravo7/christian-bravo7/master/assets/instagram.svg?sanitize=true" />
+    <img width="32" height="32" src="https://raw.githubusercontent.com/christian-bravo7/christian-bravo7/master/assets/instagram.svg?sanitize=true" />
 </a>
 <a target="_blank" href="www.linkedin.com/in/christian151-bravo">
-    <img width="18" height="18" src="https://raw.githubusercontent.com/christian-bravo7/christian-bravo7/master/assets/linkedin.svg?sanitize=true" />
+    <img width="32" height="32" src="https://raw.githubusercontent.com/christian-bravo7/christian-bravo7/master/assets/linkedin.svg?sanitize=true" />
 </a>
 <a target="_blank" href="https://github.com/christian-bravo7">
-    <img width="18" height="18" src="https://raw.githubusercontent.com/christian-bravo7/christian-bravo7/master/assets/github.svg?sanitize=true" />
+    <img width="32" height="32" src="https://raw.githubusercontent.com/christian-bravo7/christian-bravo7/master/assets/github.svg?sanitize=true" />
 </a>
 </div>
 
