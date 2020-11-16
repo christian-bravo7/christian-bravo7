@@ -7,7 +7,7 @@
 
 <strong>⚡ About me</strong>
 
-- 🔭 I’m currently studying **Computer Science** at [Universidad Galileo](https://www.galileo.edu)
+- 🔭 I’m currently studying **Software Engineering and Computer Science** at [Universidad Galileo](https://www.galileo.edu)
 - 🌱 I’m currently learning **GraphQL** and **Mobile Development (Flutter, Kotlin)**
 - ⚙️ Mastering: `.html`, `.css`, `.js`, `.ts`, `.vue`
 
