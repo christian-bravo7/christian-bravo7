@@ -14,13 +14,13 @@
 <strong>📫 How to reach me </strong>
 
 <div align="center">
-<a target="_blank" href="https://www.instagram.com/christian.bravo_/">
+<a href="https://www.instagram.com/christian.bravo_/" target="_blank">
     <img width="45" height="45" src="https://raw.githubusercontent.com/christian-bravo7/christian-bravo7/master/assets/instagram.svg?sanitize=true" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/christian151-bravo">
+<a href="https://www.linkedin.com/in/christian151-bravo" target="_blank">
     <img width="45" height="45" src="https://raw.githubusercontent.com/christian-bravo7/christian-bravo7/master/assets/linkedin.svg?sanitize=true" />
 </a>
-<a target="_blank" href="https://github.com/christian-bravo7">
+<a href="https://github.com/christian-bravo7" target="_blank">
     <img width="45" height="45" src="https://raw.githubusercontent.com/christian-bravo7/christian-bravo7/master/assets/github.svg?sanitize=true" />
 </a>
 </div>
